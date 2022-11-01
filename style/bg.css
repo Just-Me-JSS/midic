@@ -3,10 +3,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
     font-size: 20px;
     text-align: center;
 }
-
+body {
+    background-image: url('/images/music.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
